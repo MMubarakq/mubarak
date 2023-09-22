@@ -1,0 +1,33 @@
+#oo{width: 100px;
+    height: 100px;
+  background-color: aqua;
+  border: 1px solid;
+  position: relative;
+  float: left;
+  }
+  
+  
+  #ooo{width: 100px;
+      height: 100px;
+    background-color: aqua;
+    border: 1px solid;
+    position: relative;
+     float: right;
+  
+     }
+  
+   
+      
+      
+  #o{
+      
+      background-color: aqua;
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+      
+  }
+  hr{background-color: aqua;
+      height: 4px;
+      border: none;
+  }
